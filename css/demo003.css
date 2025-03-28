@@ -1575,7 +1575,7 @@ audio::-webkit-media-controls-volume-slider {
    display:flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 1px 1px 1px #295945;
+  box-shadow: 1px 1px 1px #354F52;
   z-index: 9999;
 }
 .inicialesFoto{
@@ -1587,6 +1587,8 @@ audio::-webkit-media-controls-volume-slider {
   justify-content: center;
   align-items: center;
   z-index: 99;
+
+
 }
 .textoIniciales{
   font-size: 35px;
